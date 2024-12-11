@@ -16,7 +16,10 @@ Developed in Python and powered by tkinter for GUI design.
 🖥️ Application Overview
 Here’s what you can expect from the application:
 
-Main Functionality: Input dendrometry data(🌟must CSV file),calculate volume efficiently, and view results directly through the GUI.
+Main Functionality: Input dendrometry data(🌟must CSV file,only including x,y,z columns)
+
+calculate volume efficiently, and view results directly through the GUI.
+
 Simple Workflow: Designed for both casual and professional users in forestry, environmental science, and more.
 
 
