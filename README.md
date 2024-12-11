@@ -1,8 +1,9 @@
-🌲 Dendrometry Volume Tool
+#🌲 Dendrometry Volume Tool
 A simple and intuitive tool for calculating dendrometry volume with a user-friendly graphical interface (GUI).
 Developed in Python and powered by tkinter for GUI design.
 
-✨ Features
+✨ Features:
+
 ✅ Dendrometry Volume Calculation
     Supports multiple dendrometry volume calculation methods, ensuring convenience and efficiency.
 
