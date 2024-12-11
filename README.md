@@ -1,12 +1,21 @@
-# Dendrometry-Volume
-Dendrometry Volume Tool
-*******
-This is a small tool I designed to calculate the volume of a dendrometry method, providing an easy-to-use graphical user interface (GUI). 
-The tool is developed based on Python and uses tkinter for interface design.
-*******
-Features:
-1.Dendrometry volume calculation: It supports a variety of volume calculation methods, which is convenient and fast.
+🌲 Dendrometry Volume Tool
+A simple and intuitive tool for calculating dendrometry volume with a user-friendly graphical interface (GUI).
+Developed in Python and powered by tkinter for GUI design.
 
-2.Intuitive GUI interface: Developed based on tkinter, it does not require complex operations and is suitable for all users.
+✨ Features
+✅ Dendrometry Volume Calculation
+    Supports multiple dendrometry volume calculation methods, ensuring convenience and efficiency.
 
-3.Lightweight tool: No need to install complex dependencies, download and use.
+✅ Intuitive GUI Interface
+    Built with tkinter, the tool provides an easy-to-use graphical user interface suitable for all users.
+
+✅ Lightweight and Portable
+    No need for complex dependencies—just download, run, and use!
+
+🖥️ Application Overview
+Here’s what you can expect from the application:
+
+Main Functionality: Input dendrometry data(🌟must CSV file),calculate volume efficiently, and view results directly through the GUI.
+Simple Workflow: Designed for both casual and professional users in forestry, environmental science, and more.
+
+
